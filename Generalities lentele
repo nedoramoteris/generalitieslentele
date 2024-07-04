@@ -1,0 +1,89 @@
+.generalitiesnuoroda {
+    font-family: 'PT Sans Narrow',sans-serif;
+    font-size: 9px;
+    letter-spacing: 1px;
+  font-weight:bold;
+  text-align:center;
+  text-transform:uppercase;
+   transition: text-decoration 1s ease;
+  line-height:9px;
+  padding:1px;
+    background-image: linear-gradient(to right, #795449, #3d3d42);
+  -webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+.generalitiesnuoroda:hover {
+      text-decoration: #756059 underline;
+}
+
+.generalitiestekstukas {
+  text-align: justify;
+  font-family:pt sans narrow, sans-serif;
+  font-size:8px; margin-left:-5px;
+}
+
+.welcometoforks {
+  border: 1px solid #2C2C29;
+  box-shadow: 0 0 7px rgba(0, 0, 0, 0.3); 
+  border-radius: 7px;
+      padding: 5px;
+    margin-bottom:5px;
+      background: #292725;
+color: #756059;
+  border-radius:7px;
+  padding:4px;
+  font-weight: bold;
+font-family: 'PT Sans Narrow',sans-serif;
+    font-size: 10px;
+    letter-spacing: 0px;
+  font-weight:bold;
+  text-transform:uppercase;
+margin-bottom:3px;}
+
+.aesthetictekstukas { font-family: 'PT Sans Narrow',sans-serif;
+  border-radius:7px;
+  background:white;
+text-transform:uppercase;
+  font-size: 6px;
+    letter-spacing: 1px;
+  line-height:6px;
+  padding:5px;
+  margin-top:-6px;
+  background-image: linear-gradient(to right, #795449, #3d3d42);
+color: white;
+  text-align:right;
+  width:150px;
+}
+.generremas {
+  background: #292725;
+border: 1px solid #2C2C29;
+  box-shadow: 0 0 7px rgba(0, 0, 0, 0.3); 
+  padding: 5px;
+  border-radius: 7px; margin-left:-7px; margin-right:-8px;
+}
+
+.adminimage {height: 86px; 
+  width: 40px; object-fit: cover; 
+  border: 2px solid #292725; 
+  box-shadow: 0 0 7px rgba(0, 0, 0, 0.3); 
+  background: #292725;border-radius: 7px;
+margin-top:4px;}
+
+.baigiamasiszodis {border: 1px solid #2C2C29;
+  box-shadow: 0 0 7px rgba(0, 0, 0, 0.3); 
+  border-radius: 7px;
+      padding: 5px;
+      background: #292725;
+color: #756059;
+  padding:4px;
+  font-weight: bold;
+  text-transform:uppercase;
+  letter-spacing:1px;
+font-family: 'PT Sans Narrow',sans-serif;
+    font-size: 7px;
+  font-weight:bold;
+text-align:center;
+  margin-top:6px;
+width:1010px;
+margin-left:-15px;}
